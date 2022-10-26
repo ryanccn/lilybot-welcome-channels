@@ -1,0 +1,57 @@
+- type: embed
+  embeds:
+    - title: Welcome to the Ryanland Discord server!
+      url: https://ryanccn.dev/
+      color: 0x67E8F9
+      description: I'm a high school student and open source web/app developer!
+
+- type: rules
+  rules:
+    Be nice: don't do things that can be hurtful to other people.
+    Stay legal: don't break laws or Discord ToS.
+    Don't spam: this is a personal server, it's my turn to spam :>
+
+- type: links
+  title: ':link: Links'
+  color: 0xE879F9
+  links:
+    Website: https://ryanccn.dev
+    Twitter: https://twitter.com/RyanCaoDev
+    GitHub: https://github.com/ryanccn
+
+- type: roles
+  id: notification-roles
+  title: Notification roles
+  template: '**»** {MENTION}'
+
+  roles:
+    1001403794321571850:
+      description: Moddermore
+    1029963790843908167:
+      description: ryanccn.dev
+
+- type: roles
+  id: pronoun-roles
+  title: Pronoun roles
+  template: '**»** {MENTION}'
+
+  roles:
+    1029962880528941056:
+      description: he/him
+    1029962881653035079:
+      description: she/her
+    1029962882437369947:
+      description: they/them
+    1029962884136050809:
+      description: it/its
+    1029962885323038740:
+      description: no pronouns (use name)
+    1029962886447116358:
+      description: any pronouns
+    1029962887512473671:
+      description: ask for pronouns
+    1034803628604670002:
+      description: check pk
+
+- type: text
+  text: https://discord.gg/ty7GCnN87U
