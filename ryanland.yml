@@ -7,12 +7,22 @@
 
 - type: rules
   rules:
-    Be nice: don't do things that can be hurtful to other people.
-    Stay legal: don't break laws or Discord ToS.
-    Don't spam: this is a personal server, it's my turn to spam :>
+    Be nice & respect others: "**Don't do things that can be hurtful to other people**, including misgendering, causing obvious discomfort, etc. Stop when you are asked to."
+    Don't start shouting matches: "It's okay to argue about frameworks and stuff, I like doing that too, but please don't let it devolve into a shouting match and start hurting each other. Then it becomes not cool."
+    Stay legal: "&&Don't break laws or Discord ToS.** No talk about sussy stuff like piracy."
+    Don't spam / self-promote: "This is not a free-for-all server. Don't spam or you will definitely get banned. Self-promotion is not recommended unless you're a good friend and I tell you you can :p"
+    Keep it appropriate: "**No NSFW allowed**. (unless I make an exception) (probably won't)"
+  colors:
+    - 0xF87171
+    - 0xFB923C
+    - 0xFACC15
+    - 0x34D399
+    - 0x38BDF8
+    - 0x6366F1
+    - 0xA855F7
 
 - type: links
-  title: ':link: Links'
+  title: 'Links'
   color: 0xE879F9
   links:
     Website: https://ryanccn.dev
